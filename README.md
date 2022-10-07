@@ -3,15 +3,9 @@
 <img align="right" alt="redTech"  src="https://giffiles.alphacoders.com/174/1744.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doodhnath1&label=Profile%20views&color=0e75b6&style=flat" alt="doodhnath1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doodhnath1" alt="doodhnath1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/doodhtiwari1" target="blank"><img src="https://img.shields.io/twitter/follow/doodhtiwari1?logo=twitter&style=for-the-badge" alt="doodhtiwari1" /></a> </p>
 
 - 🔭 I’m have worked on [To-Do App](https://todoapp-3e297.web.app/)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 🤝 I’m looking for help with [Retroactive Data Structure](https://github.com/Doodhnath1/CS-201-Project-Year-2)
 
 - 👨‍💻 All of my projects are available at [https://myportfoliolink.com](https://myportfoliolink.com)
 
